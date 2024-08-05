@@ -1,0 +1,30 @@
+_repo: Ut-stiltme-en-stoarm-b-LXXV-Sonetten_73963
+_version: 0.0.1
+alternative_title: 'Ut stiltme en stoarm :  75 sonnetten'
+creator:
+  author:
+    agent_name: Kalma, Douwe
+    birthdate: 1896
+    deathdate: 1953
+    gutenberg_agent_id: '43803'
+    url: http://www.gutenberg.org/2009/agents/43803
+    wikipedia: https://fy.wikipedia.org/wiki/Douwe_Kalma
+description: ''
+gutenberg_issued: '2024-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73963'
+language: fy
+pgterms:marc905: 20240626142123kalma
+pgterms:marc906: '1918'
+pgterms:marc907: nl
+publication_note: '  $aSneek :$bA.J. Osinga, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frisian poetry'
+- !lcc 'PF'
+- GITenberg
+title: 'Ut stiltme en stoarm : $b LXXV Sonetten'
+url: http://www.gutenberg.org/ebooks/73963
