@@ -1,6 +1,9 @@
 _repo: Ut-stiltme-en-stoarm-b-LXXV-Sonetten_73963
 _version: 0.1.0
 alternative_title: 'Ut stiltme en stoarm :  75 sonnetten'
+covers:
+- cover_type: archival
+  image_path: 73963-h/images/cover.jpg
 creator:
   author:
     agent_name: Kalma, Douwe
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43803
     wikipedia: https://fy.wikipedia.org/wiki/Douwe_Kalma
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73963#Ut-stiltme-en-stoarm-b-LXXV-Sonetten
 gutenberg_issued: '2024-07-04'
 gutenberg_type: Text
 identifiers:
